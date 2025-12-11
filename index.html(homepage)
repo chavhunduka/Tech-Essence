@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tech Essences | Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <h1 class="logo">Tech Essence</h1>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <!-- Hero section -->
+  <section class="hero">
+    <h2>Your One-Stop Hub for Technology Products & Services</h2>
+    <p>Where Technology meets trend.</p>
+    <button onclick="location.href='products.html'">Explore Now</button>
+  </section>
+
+  <!-- Additional sections as needed for home -->
+  
+  <footer>
+    <p>© 2026 Tech Essence. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
